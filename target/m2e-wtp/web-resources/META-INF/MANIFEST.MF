@@ -1,7 +1,11 @@
 Manifest-Version: 1.0
-Build-Jdk-Spec: 17
+Built-By: cengr
+Build-Jdk: 17.0.5
 Implementation-Title: registration-login-spring-boot-security-thymeleaf
 Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.javaguides
 Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/registration-
+ login-spring-boot-security-thymeleaf
 Created-By: Maven Integration for Eclipse
 

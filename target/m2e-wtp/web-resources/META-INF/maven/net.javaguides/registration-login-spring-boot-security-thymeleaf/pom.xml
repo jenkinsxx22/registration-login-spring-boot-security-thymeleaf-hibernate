@@ -11,6 +11,7 @@
 	</parent>
 	<groupId>net.javaguides</groupId>
 	<artifactId>registration-login-spring-boot-security-thymeleaf</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>registration-login-spring-boot-security-thymeleaf</name>
 	<description>Demo project for Spring Boot Thymeleaf and Hibernate </description>
@@ -78,6 +79,10 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+			    <plugin>
+      <artifactId>maven-war-plugin</artifactId>
+      <version>3.2.2</version>
+    </plugin>
 		</plugins>
 	</build>
 
